@@ -1,0 +1,8 @@
+- [ ] Projeto Next.js + Tailwind + MiniKit SDK para World App
+- [ ] Estrutura: src/pages, src/components, src/games, src/store, src/mock
+- [ ] Abas: Home, Pet, Games, Shop, Profile
+- [ ] Mock de dados para pets, posts, scores, leaderboards
+- [ ] 7 mini-games mobile-friendly
+- [ ] Integração World ID, Wallet, Pay, Sign via MiniKit
+- [ ] UI pastel, animações, responsivo para webview
+- [ ] Rewards, streak, leaderboard, shop com cripto
